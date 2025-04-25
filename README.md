@@ -38,11 +38,11 @@ This project explores how borrower characteristics influence interest rates on b
 
 ## Assumption Checks
 
-✅ Linearity: Residual vs fitted plot showed no patterns
-✅ Normality: Histogram & QQ-plot confirm symmetrical residuals
-✅ Independence: Residuals randomly scattered
-⚠️ Homoscedasticity: Breusch-Pagan test indicated mild heteroscedasticity, but negligible impact due to large dataset
-✅ Multicollinearity: All GVIF values < 10, no strong collinearity detected
+✅ Linearity: Residual vs fitted plot showed no patterns  
+✅ Normality: Histogram & QQ-plot confirm symmetrical residuals  
+✅ Independence: Residuals randomly scattered  
+⚠️ Homoscedasticity: Breusch-Pagan test indicated mild heteroscedasticity, but negligible impact due to large dataset  
+✅ Multicollinearity: All GVIF values < 10, no strong collinearity detected  
 
 ## Final Model Insights
 
